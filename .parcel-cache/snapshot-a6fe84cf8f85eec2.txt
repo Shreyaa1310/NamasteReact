@@ -1,9 +1,9 @@
-4760
+4763
 126C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-svg\node_modules\dom-serializer\lib\foreignNames.d.ts.map121436361000000000 0
 89C:\Users\shrey\Desktop\NamasteReact\node_modules\caniuse-lite\data\features\pdf-viewer.js121436361000000000 0
 73C:\Users\shrey\Desktop\NamasteReact\node_modules\node-addon-api\nothing.c121436361000000000 0
 77C:\Users\shrey\Desktop\NamasteReact\node_modules\electron-to-chromium\LICENSE121436361000000000 0
-40C:\Users\shrey\Desktop\NamasteReact\dist133764086904832004 1
+40C:\Users\shrey\Desktop\NamasteReact\dist133765111671380276 1
 57C:\Users\shrey\Desktop\NamasteReact\node_modules\get-port133763215344262173 1
 110C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-html\node_modules\domutils\lib\helpers.js121436361000000000 0
 119C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-svg\node_modules\domhandler\lib\esm\index.d.ts.map121436361000000000 0
@@ -24,13 +24,16 @@
 46C:\Users\shrey\Desktop\NamasteReact\Assesment1133763940991978732 0
 80C:\Users\shrey\Desktop\NamasteReact\node_modules\caniuse-lite\data\regions\DK.js121436361000000000 0
 71C:\Users\shrey\Desktop\NamasteReact\node_modules\msgpackr\node-index.js121436361000000000 0
-42C:\Users\shrey\Desktop\NamasteReact\App.js133761480955754566 0
+42C:\Users\shrey\Desktop\NamasteReact\App.js133765111669869689 0
 72C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\watcher\LICENSE121436361000000000 0
 46C:\Users\shrey\Desktop\NamasteReact\Assesment2133764059227596689 0
+90C:\Users\shrey\Desktop\NamasteReact\node_modules\caniuse-lite\data\features\css-lch-lab.js121436361000000000 0
+80C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\core\src\Environment.js121436361000000000 0
+46C:\Users\shrey\Desktop\NamasteReact\Assesment3133765113332439176 0
 81C:\Users\shrey\Desktop\NamasteReact\node_modules\@swc\helpers\cjs\_instanceof.cjs121436361000000000 0
 57C:\Users\shrey\Desktop\NamasteReact\node_modules\posthtml133763215348132915 1
 90C:\Users\shrey\Desktop\NamasteReact\node_modules\caniuse-lite\data\features\textcontent.js121436361000000000 0
-46C:\Users\shrey\Desktop\NamasteReact\index.html133764060025797878 0
+46C:\Users\shrey\Desktop\NamasteReact\index.html133765098366514044 0
 80C:\Users\shrey\Desktop\NamasteReact\node_modules\caniuse-lite\data\regions\CA.js121436361000000000 0
 108C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-svg\node_modules\domutils\lib\legacy.js121436361000000000 0
 84C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\runtime-js\src\JSRuntime.js121436361000000000 0
@@ -56,7 +59,7 @@
 81C:\Users\shrey\Desktop\NamasteReact\node_modules\lmdb\dependencies\lmdb\libraries133763215109517632 1
 80C:\Users\shrey\Desktop\NamasteReact\node_modules\caniuse-lite\data\regions\BI.js121436361000000000 0
 73C:\Users\shrey\Desktop\NamasteReact\node_modules\escalade\sync\index.d.ts121436361000000000 0
-48C:\Users\shrey\Desktop\NamasteReact\package.json133764084260700207 0
+48C:\Users\shrey\Desktop\NamasteReact\package.json133764106004234501 0
 121C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-svg\node_modules\dom-serializer\lib\esm\package.json121436361000000000 0
 105C:\Users\shrey\Desktop\NamasteReact\node_modules\react-dom\cjs\react-dom-server.browser.production.min.js133764061693780020 0
 94C:\Users\shrey\Desktop\NamasteReact\node_modules\caniuse-lite\data\features\media-fragments.js121436361000000000 0
@@ -147,6 +150,7 @@
 112C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-svg\node_modules\domhandler\lib\esm\node.js121436361000000000 0
 72C:\Users\shrey\Desktop\NamasteReact\node_modules\semver\functions\neq.js121436361000000000 0
 100C:\Users\shrey\Desktop\NamasteReact\node_modules\@swc\helpers\src\_class_apply_descriptor_update.mjs121436361000000000 0
+58C:\Users\shrey\Desktop\NamasteReact\dist\index.7826abd7.js133765111671166488 0
 55C:\Users\shrey\Desktop\NamasteReact\node_modules\braces133763215346744630 1
 116C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-html\node_modules\domhandler\lib\index.d.ts.map121436361000000000 0
 72C:\Users\shrey\Desktop\NamasteReact\node_modules\js-yaml\lib\type\set.js121436361000000000 0
@@ -258,14 +262,6 @@
 83C:\Users\shrey\Desktop\NamasteReact\node_modules\type-fest\ts41\delimiter-case.d.ts121436361000000000 0
 85C:\Users\shrey\Desktop\NamasteReact\node_modules\utility-types\dist\mapped-types.d.ts121436361000000000 0
 82C:\Users\shrey\Desktop\NamasteReact\node_modules\caniuse-lite\data\features\let.js121436361000000000 0
-64C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\fs\test133763215145326175 1
-70C:\Users\shrey\Desktop\NamasteReact\node_modules\lmdb\rollup.config.js121436361000000000 0
-88C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\runtime-browser-hmr\src\loaders133763215129693949 1
-106C:\Users\shrey\Desktop\NamasteReact\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest3.c121436361000000000 0
-79C:\Users\shrey\Desktop\NamasteReact\node_modules\postcss-value-parser\README.md121436361000000000 0
-115C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-posthtml\node_modules\dom-serializer\README.md121436361000000000 0
-117C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-posthtml\node_modules\entities\lib\esm\generated133763215164829606 1
-76C:\Users\shrey\Desktop\NamasteReact\node_modules\lightningcss-win32-x64-msvc133763215350205321 1
 81C:\Users\shrey\Desktop\NamasteReact\node_modules\term-size\vendor\macos\.DS_Store121436361000000000 0
 111C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-html\node_modules\entities\lib\escape.d.ts121436361000000000 0
 75C:\Users\shrey\Desktop\NamasteReact\node_modules\msgpackr\dist\node.cjs.map121436361000000000 0
@@ -281,12 +277,18 @@
 97C:\Users\shrey\Desktop\NamasteReact\node_modules\@swc\helpers\esm\_check_private_redeclaration.js121436361000000000 0
 87C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-babel\src\utils.js121436361000000000 0
 82C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\utils\src\PromiseQueue.js121436361000000000 0
-115C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-svg\node_modules\domutils\lib\esm\traversal.js121436361000000000 0
-81C:\Users\shrey\Desktop\NamasteReact\node_modules\htmlnano\docs\versioned_sidebars133763215186967230 1
 132C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-posthtml\node_modules\entities\lib\esm\generated\encode-html.js121436361000000000 0
 99C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\runtime-js\lib\helpers\worker\js-loader.js121436361000000000 0
 61C:\Users\shrey\Desktop\NamasteReact\node_modules\lightningcss133763215350215325 1
 121C:\Users\shrey\Desktop\NamasteReact\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test133763215353171979 0
+64C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\fs\test133763215145326175 1
+70C:\Users\shrey\Desktop\NamasteReact\node_modules\lmdb\rollup.config.js121436361000000000 0
+88C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\runtime-browser-hmr\src\loaders133763215129693949 1
+106C:\Users\shrey\Desktop\NamasteReact\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest3.c121436361000000000 0
+79C:\Users\shrey\Desktop\NamasteReact\node_modules\postcss-value-parser\README.md121436361000000000 0
+115C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-posthtml\node_modules\dom-serializer\README.md121436361000000000 0
+117C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-posthtml\node_modules\entities\lib\esm\generated133763215164829606 1
+76C:\Users\shrey\Desktop\NamasteReact\node_modules\lightningcss-win32-x64-msvc133763215350205321 1
 84C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\workers\src\web\WebChild.js121436361000000000 0
 53C:\Users\shrey\Desktop\NamasteReact\node_modules\lmdb133763215344963464 1
 75C:\Users\shrey\Desktop\NamasteReact\node_modules\js-yaml\lib\schema\json.js121436361000000000 0
@@ -489,7 +491,7 @@
 122C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-posthtml\node_modules\domutils\lib\esm\traversal.d.ts121436361000000000 0
 92C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\optimizer-svgo\lib\SVGOOptimizer.js121436361000000000 0
 73C:\Users\shrey\Desktop\NamasteReact\node_modules\weak-lru-cache\README.md121436361000000000 0
-63C:\Users\shrey\Desktop\NamasteReact\dist\index.9e4c6fd2.css.map133764086904644008 0
+63C:\Users\shrey\Desktop\NamasteReact\dist\index.9e4c6fd2.css.map133765111599457606 0
 74C:\Users\shrey\Desktop\NamasteReact\node_modules\node-addon-api\napi-inl.h121436361000000000 0
 120C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-svg\node_modules\htmlparser2\lib\esm\index.d.ts.map121436361000000000 0
 80C:\Users\shrey\Desktop\NamasteReact\node_modules\caniuse-lite\data\regions\NE.js121436361000000000 0
@@ -951,7 +953,7 @@
 64C:\Users\shrey\Desktop\NamasteReact\node_modules\srcset\index.js133764061692369729 0
 65C:\Users\shrey\Desktop\NamasteReact\node_modules\@swc\helpers\esm133763215201918500 1
 104C:\Users\shrey\Desktop\NamasteReact\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\020-usage.md121436361000000000 0
-51C:\Users\shrey\Desktop\NamasteReact\dist\index.html133764086904586899 0
+51C:\Users\shrey\Desktop\NamasteReact\dist\index.html133765098369256058 0
 73C:\Users\shrey\Desktop\NamasteReact\node_modules\@swc\core-win32-x64-msvc133763215341887824 1
 63C:\Users\shrey\Desktop\NamasteReact\node_modules\srcset\license133764061692176248 0
 85C:\Users\shrey\Desktop\NamasteReact\node_modules\msgpackr\dist\unpack-no-eval.cjs.map121436361000000000 0
@@ -1052,7 +1054,7 @@
 74C:\Users\shrey\Desktop\NamasteReact\node_modules\msgpackr\rollup.config.js121436361000000000 0
 74C:\Users\shrey\Desktop\NamasteReact\node_modules\semver\functions\clean.js121436361000000000 0
 72C:\Users\shrey\Desktop\NamasteReact\node_modules\semver\functions\cmp.js121436361000000000 0
-59C:\Users\shrey\Desktop\NamasteReact\dist\index.9e4c6fd2.css133764086904586899 0
+59C:\Users\shrey\Desktop\NamasteReact\dist\index.9e4c6fd2.css133765111599349822 0
 80C:\Users\shrey\Desktop\NamasteReact\node_modules\caniuse-lite\data\regions\CN.js121436361000000000 0
 116C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-svg\node_modules\htmlparser2\lib\esm\index.d.ts121436361000000000 0
 70C:\Users\shrey\Desktop\NamasteReact\node_modules\browserslist\index.js121436361000000000 0
@@ -1102,7 +1104,6 @@
 93C:\Users\shrey\Desktop\NamasteReact\node_modules\entities\lib\generated\decode-data-html.d.ts121436361000000000 0
 85C:\Users\shrey\Desktop\NamasteReact\node_modules\@swc\helpers\esm\_read_only_error.js121436361000000000 0
 72C:\Users\shrey\Desktop\NamasteReact\node_modules\semver\classes\range.js121436361000000000 0
-101C:\Users\shrey\Desktop\NamasteReact\node_modules\caniuse-lite\data\features\prefers-reduced-motion.js121436361000000000 0
 81C:\Users\shrey\Desktop\NamasteReact\node_modules\lines-and-columns\build\index.js121436361000000000 0
 80C:\Users\shrey\Desktop\NamasteReact\node_modules\caniuse-lite\data\regions\HU.js121436361000000000 0
 71C:\Users\shrey\Desktop\NamasteReact\node_modules\react-refresh\babel.js121436361000000000 0
@@ -1254,7 +1255,7 @@
 63C:\Users\shrey\Desktop\NamasteReact\node_modules\react\index.js133764061051677411 0
 90C:\Users\shrey\Desktop\NamasteReact\node_modules\react-dom\cjs\react-dom.production.min.js133764061694594624 0
 91C:\Users\shrey\Desktop\NamasteReact\node_modules\lmdb\node_modules\node-addon-api\README.md121436361000000000 0
-58C:\Users\shrey\Desktop\NamasteReact\node_modules\react\cjs133764061053413125 1
+58C:\Users\shrey\Desktop\NamasteReact\node_modules\react\cjs133764061053849616 1
 91C:\Users\shrey\Desktop\NamasteReact\node_modules\node-gyp-build-optional-packages\README.md121436361000000000 0
 73C:\Users\shrey\Desktop\NamasteReact\node_modules\react\jsx-dev-runtime.js133764061051707333 0
 109C:\Users\shrey\Desktop\NamasteReact\node_modules\msgpackr-extract\node_modules\detect-libc\lib\detect-libc.js121436361000000000 0
@@ -2096,6 +2097,8 @@
 97C:\Users\shrey\Desktop\NamasteReact\node_modules\htmlnano\lib\modules\sortAttributesWithLists.mjs121436361000000000 0
 75C:\Users\shrey\Desktop\NamasteReact\node_modules\htmlnano\docs\netlify.toml121436361000000000 0
 75C:\Users\shrey\Desktop\NamasteReact\node_modules\htmlnano\docs\package.json121436361000000000 0
+115C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-svg\node_modules\domutils\lib\esm\traversal.js121436361000000000 0
+81C:\Users\shrey\Desktop\NamasteReact\node_modules\htmlnano\docs\versioned_sidebars133763215186967230 1
 107C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\runtime-service-worker\lib\ServiceWorkerRuntime.js121436361000000000 0
 92C:\Users\shrey\Desktop\NamasteReact\node_modules\caniuse-lite\data\features\link-icon-png.js121436361000000000 0
 115C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-posthtml\node_modules\domutils\lib\querying.js121436361000000000 0
@@ -2847,7 +2850,6 @@
 96C:\Users\shrey\Desktop\NamasteReact\node_modules\caniuse-lite\data\features\css-initial-value.js121436361000000000 0
 102C:\Users\shrey\Desktop\NamasteReact\node_modules\@swc\helpers\src\_class_static_private_method_get.mjs121436361000000000 0
 109C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-svg\node_modules\domutils\lib\helpers.js121436361000000000 0
-90C:\Users\shrey\Desktop\NamasteReact\node_modules\caniuse-lite\data\features\css-lch-lab.js121436361000000000 0
 117C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-posthtml\node_modules\entities\lib\encode.js.map121436361000000000 0
 93C:\Users\shrey\Desktop\NamasteReact\node_modules\caniuse-lite\data\features\css-line-clamp.js121436361000000000 0
 96C:\Users\shrey\Desktop\NamasteReact\node_modules\caniuse-lite\data\features\css-logical-props.js121436361000000000 0
@@ -2859,8 +2861,8 @@
 95C:\Users\shrey\Desktop\NamasteReact\node_modules\caniuse-lite\data\features\css-not-sel-list.js121436361000000000 0
 87C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\types-internal\src\FilePath.js121436361000000000 0
 75C:\Users\shrey\Desktop\NamasteReact\node_modules\@swc\helpers\_\_call_super133763215219957239 1
-95C:\Users\shrey\Desktop\NamasteReact\node_modules\caniuse-lite\data\features\css-nth-child-of.js121436361000000000 0
 78C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\profiler\src\types.js121436361000000000 0
+95C:\Users\shrey\Desktop\NamasteReact\node_modules\caniuse-lite\data\features\css-nth-child-of.js121436361000000000 0
 98C:\Users\shrey\Desktop\NamasteReact\node_modules\caniuse-lite\data\features\css-optional-pseudo.js121436361000000000 0
 98C:\Users\shrey\Desktop\NamasteReact\node_modules\caniuse-lite\data\features\css-overflow-anchor.js121436361000000000 0
 91C:\Users\shrey\Desktop\NamasteReact\node_modules\caniuse-lite\data\features\magnetometer.js121436361000000000 0
@@ -3042,6 +3044,7 @@
 88C:\Users\shrey\Desktop\NamasteReact\node_modules\caniuse-lite\data\features\png-alpha.js121436361000000000 0
 93C:\Users\shrey\Desktop\NamasteReact\node_modules\caniuse-lite\data\features\pointer-events.js121436361000000000 0
 101C:\Users\shrey\Desktop\NamasteReact\node_modules\@swc\helpers\_\_class_private_field_set\package.json121436361000000000 0
+101C:\Users\shrey\Desktop\NamasteReact\node_modules\caniuse-lite\data\features\prefers-reduced-motion.js121436361000000000 0
 87C:\Users\shrey\Desktop\NamasteReact\node_modules\caniuse-lite\data\features\progress.js121436361000000000 0
 104C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-posthtml\lib\PostHTMLTransformer.js121436361000000000 0
 94C:\Users\shrey\Desktop\NamasteReact\node_modules\caniuse-lite\data\features\promise-finally.js121436361000000000 0
@@ -4213,7 +4216,7 @@
 130C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-html\node_modules\entities\lib\generated\encode-html.d.ts.map121436361000000000 0
 119C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-html\node_modules\entities\lib\esm\decode.d.ts.map121436361000000000 0
 113C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-html\node_modules\entities\lib\esm\decode.js121436361000000000 0
-69C:\Users\shrey\Desktop\NamasteReact\dist\NamasteReact.3464ddca.js.map133764086904644008 0
+69C:\Users\shrey\Desktop\NamasteReact\dist\NamasteReact.3464ddca.js.map133765097045250253 0
 125C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-html\node_modules\entities\lib\esm\decode_codepoint.d.ts121436361000000000 0
 127C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-html\node_modules\entities\lib\esm\decode_codepoint.js.map121436361000000000 0
 119C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\transformer-html\node_modules\entities\lib\esm\encode.d.ts.map121436361000000000 0
@@ -4611,7 +4614,6 @@
 83C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\core\src\CommittedAsset.js121436361000000000 0
 78C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\core\src\constants.js121436361000000000 0
 88C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\core\src\dumpGraphToGraphViz.js121436361000000000 0
-80C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\core\src\Environment.js121436361000000000 0
 85C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\core\src\loadParcelPlugin.js121436361000000000 0
 81C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\core\src\ParcelConfig.js121436361000000000 0
 88C:\Users\shrey\Desktop\NamasteReact\node_modules\@parcel\core\src\ParcelConfig.schema.js121436361000000000 0
@@ -4758,4 +4760,5 @@
 64C:\Users\shrey\Desktop\NamasteReact\node_modules\.bin\semver.ps1133763215353472537 0
 76C:\Users\shrey\Desktop\NamasteReact\node_modules\.bin\update-browserslist-db133763215353582999 0
 80C:\Users\shrey\Desktop\NamasteReact\node_modules\.bin\update-browserslist-db.cmd133763215353582999 0
-65C:\Users\shrey\Desktop\NamasteReact\dist\NamasteReact.3464ddca.js133764086904586899 0
+62C:\Users\shrey\Desktop\NamasteReact\dist\index.7826abd7.js.map133765111671305006 0
+65C:\Users\shrey\Desktop\NamasteReact\dist\NamasteReact.3464ddca.js133765097045184636 0
